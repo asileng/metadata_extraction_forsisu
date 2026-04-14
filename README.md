@@ -24,7 +24,7 @@
 
 ## 📸 界面预览
 
-![GUI界面截图](screenshot.png)
+![alt text](image.png)
 
 *注：实际界面可能略有不同*
 
